@@ -269,5 +269,5 @@ def main():
         with st.chat_message("assistant"):
             st.write(bot_response)
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
